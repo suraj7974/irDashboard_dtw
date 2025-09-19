@@ -1,0 +1,509 @@
+2025-08-25 17:03:30,529 - numexpr.utils - INFO - NumExpr defaulting to 4 threads.
+2025-08-25 17:03:30,799 - __main__ - INFO - Successfully imported extract_text_from_pdf from parser module
+2025-08-25 17:03:30,801 - __main__ - INFO - Processing PDF: test.pdf
+2025-08-25 17:05:16,595 - __main__ - INFO - Loaded 59 questions from question.txt
+2025-08-25 17:05:16,596 - __main__ - INFO - Finding answer for question 1
+2025-08-25 17:05:16,610 - __main__ - INFO - Found answer for question 1
+2025-08-25 17:05:16,610 - __main__ - INFO - Finding answer for question 2
+2025-08-25 17:05:16,640 - __main__ - INFO - Found answer for question 2
+2025-08-25 17:05:16,641 - __main__ - INFO - Finding answer for question 3
+2025-08-25 17:05:16,653 - __main__ - INFO - Found answer for question 3
+2025-08-25 17:05:16,653 - __main__ - INFO - Finding answer for question 4
+2025-08-25 17:05:16,655 - __main__ - INFO - Found answer for question 4
+2025-08-25 17:05:16,656 - __main__ - INFO - Finding answer for question 5
+2025-08-25 17:05:16,657 - __main__ - INFO - Found answer for question 5
+2025-08-25 17:05:16,658 - __main__ - INFO - Finding answer for question 6
+2025-08-25 17:05:16,659 - __main__ - INFO - Found answer for question 6
+2025-08-25 17:05:16,659 - __main__ - INFO - Finding answer for question 7
+2025-08-25 17:05:16,660 - __main__ - INFO - Found answer for question 7
+2025-08-25 17:05:16,660 - __main__ - INFO - Finding answer for question 8
+2025-08-25 17:05:16,675 - __main__ - INFO - Found answer for question 8
+2025-08-25 17:05:16,676 - __main__ - INFO - Finding answer for question 9
+2025-08-25 17:05:16,677 - __main__ - INFO - Found answer for question 9
+2025-08-25 17:05:16,677 - __main__ - INFO - Finding answer for question 10
+2025-08-25 17:05:16,678 - __main__ - INFO - Found answer for question 10
+2025-08-25 17:05:16,679 - __main__ - INFO - Finding answer for question 11
+2025-08-25 17:05:16,684 - __main__ - INFO - Found answer for question 11
+2025-08-25 17:05:16,685 - __main__ - INFO - Finding answer for question 12
+2025-08-25 17:05:16,686 - __main__ - INFO - Found answer for question 12
+2025-08-25 17:05:16,687 - __main__ - INFO - Finding answer for question 13
+2025-08-25 17:05:16,688 - __main__ - INFO - Found answer for question 13
+2025-08-25 17:05:16,688 - __main__ - INFO - Finding answer for question 14
+2025-08-25 17:05:16,689 - __main__ - INFO - Found answer for question 14
+2025-08-25 17:05:16,689 - __main__ - INFO - Finding answer for question 15
+2025-08-25 17:05:16,690 - __main__ - INFO - Found answer for question 15
+2025-08-25 17:05:16,690 - __main__ - INFO - Finding answer for question 16
+2025-08-25 17:05:16,692 - __main__ - INFO - Found answer for question 16
+2025-08-25 17:05:16,692 - __main__ - INFO - Finding answer for question 17
+2025-08-25 17:05:16,693 - __main__ - INFO - Found answer for question 17
+2025-08-25 17:05:16,693 - __main__ - INFO - Finding answer for question 18
+2025-08-25 17:05:16,695 - __main__ - INFO - Found answer for question 18
+2025-08-25 17:05:16,695 - __main__ - INFO - Finding answer for question 19
+2025-08-25 17:05:16,697 - __main__ - INFO - Found answer for question 19
+2025-08-25 17:05:16,698 - __main__ - INFO - Finding answer for question 20
+2025-08-25 17:05:16,704 - __main__ - INFO - Found answer for question 20
+2025-08-25 17:05:16,705 - __main__ - INFO - Finding answer for question 21
+2025-08-25 17:05:16,707 - __main__ - INFO - Found answer for question 21
+2025-08-25 17:05:16,708 - __main__ - INFO - Finding answer for question 22
+2025-08-25 17:05:16,710 - __main__ - INFO - Found answer for question 22
+2025-08-25 17:05:16,711 - __main__ - INFO - Finding answer for question 23
+2025-08-25 17:05:16,717 - __main__ - INFO - Found answer for question 23
+2025-08-25 17:05:16,718 - __main__ - INFO - Finding answer for question 24
+2025-08-25 17:05:16,721 - __main__ - INFO - Found answer for question 24
+2025-08-25 17:05:16,721 - __main__ - INFO - Finding answer for question 25
+2025-08-25 17:05:16,724 - __main__ - INFO - Found answer for question 25
+2025-08-25 17:05:16,725 - __main__ - INFO - Finding answer for question 26
+2025-08-25 17:05:16,726 - __main__ - INFO - Found answer for question 26
+2025-08-25 17:05:16,726 - __main__ - INFO - Finding answer for question 27
+2025-08-25 17:05:16,729 - __main__ - INFO - Found answer for question 27
+2025-08-25 17:05:16,730 - __main__ - INFO - Finding answer for question 29
+2025-08-25 17:05:16,733 - __main__ - INFO - Found answer for question 29
+2025-08-25 17:05:16,733 - __main__ - INFO - Finding answer for question 30
+2025-08-25 17:05:16,736 - __main__ - INFO - Found answer for question 30
+2025-08-25 17:05:16,736 - __main__ - INFO - Finding answer for question 34
+2025-08-25 17:05:16,737 - __main__ - INFO - Found answer for question 34
+2025-08-25 17:05:16,737 - __main__ - INFO - Finding answer for question 2
+2025-08-25 17:05:16,739 - __main__ - INFO - Found answer for question 2
+2025-08-25 17:05:16,739 - __main__ - INFO - Finding answer for question 32
+2025-08-25 17:05:16,741 - __main__ - INFO - Found answer for question 32
+2025-08-25 17:05:16,742 - __main__ - INFO - Finding answer for question 33
+2025-08-25 17:05:16,744 - __main__ - INFO - Found answer for question 33
+2025-08-25 17:05:16,744 - __main__ - INFO - Finding answer for question 34
+2025-08-25 17:05:16,747 - __main__ - INFO - Found answer for question 34
+2025-08-25 17:05:16,747 - __main__ - INFO - Finding answer for question 35
+2025-08-25 17:05:16,750 - __main__ - INFO - Found answer for question 35
+2025-08-25 17:05:16,751 - __main__ - INFO - Finding answer for question 36
+2025-08-25 17:05:16,755 - __main__ - INFO - Found answer for question 36
+2025-08-25 17:05:16,756 - __main__ - INFO - Finding answer for question 37
+2025-08-25 17:05:16,759 - __main__ - INFO - Found answer for question 37
+2025-08-25 17:05:16,760 - __main__ - INFO - Finding answer for question 38
+2025-08-25 17:05:16,761 - __main__ - INFO - Found answer for question 38
+2025-08-25 17:05:16,761 - __main__ - INFO - Finding answer for question 39
+2025-08-25 17:05:16,766 - __main__ - INFO - Found answer for question 39
+2025-08-25 17:05:16,767 - __main__ - INFO - Finding answer for question 40
+2025-08-25 17:05:16,770 - __main__ - INFO - Found answer for question 40
+2025-08-25 17:05:16,770 - __main__ - INFO - Finding answer for question 41
+2025-08-25 17:05:16,772 - __main__ - INFO - Found answer for question 41
+2025-08-25 17:05:16,773 - __main__ - INFO - Finding answer for question 42
+2025-08-25 17:05:16,774 - __main__ - INFO - Found answer for question 42
+2025-08-25 17:05:16,775 - __main__ - INFO - Finding answer for question 43
+2025-08-25 17:05:16,777 - __main__ - INFO - Found answer for question 43
+2025-08-25 17:05:16,777 - __main__ - INFO - Finding answer for question 44
+2025-08-25 17:05:16,778 - __main__ - INFO - Found answer for question 44
+2025-08-25 17:05:16,779 - __main__ - INFO - Finding answer for question 45
+2025-08-25 17:05:16,781 - __main__ - INFO - Found answer for question 45
+2025-08-25 17:05:16,782 - __main__ - INFO - Finding answer for question 46
+2025-08-25 17:05:16,784 - __main__ - INFO - Found answer for question 46
+2025-08-25 17:05:16,784 - __main__ - INFO - Finding answer for question 47
+2025-08-25 17:05:16,788 - __main__ - INFO - Found answer for question 47
+2025-08-25 17:05:16,788 - __main__ - INFO - Finding answer for question 48
+2025-08-25 17:05:16,791 - __main__ - INFO - Found answer for question 48
+2025-08-25 17:05:16,791 - __main__ - INFO - Finding answer for question 49
+2025-08-25 17:05:16,793 - __main__ - INFO - Found answer for question 49
+2025-08-25 17:05:16,793 - __main__ - INFO - Finding answer for question 50
+2025-08-25 17:05:16,795 - __main__ - INFO - Found answer for question 50
+2025-08-25 17:05:16,795 - __main__ - INFO - Finding answer for question 52
+2025-08-25 17:05:16,798 - __main__ - INFO - Found answer for question 52
+2025-08-25 17:05:16,799 - __main__ - INFO - Finding answer for question 53
+2025-08-25 17:05:16,803 - __main__ - INFO - Found answer for question 53
+2025-08-25 17:05:16,803 - __main__ - INFO - Finding answer for question 54
+2025-08-25 17:05:16,805 - __main__ - INFO - Found answer for question 54
+2025-08-25 17:05:16,805 - __main__ - INFO - Finding answer for question 55
+2025-08-25 17:05:16,809 - __main__ - INFO - Found answer for question 55
+2025-08-25 17:05:16,809 - __main__ - INFO - Finding answer for question 56
+2025-08-25 17:05:16,810 - __main__ - INFO - Found answer for question 56
+2025-08-25 17:05:16,810 - __main__ - INFO - Finding answer for question 57
+2025-08-25 17:05:16,813 - __main__ - INFO - Found answer for question 57
+2025-08-25 17:05:16,813 - __main__ - INFO - Finding answer for question 58
+2025-08-25 17:05:16,816 - __main__ - INFO - Found answer for question 58
+2025-08-25 17:05:16,816 - __main__ - INFO - Finding answer for question 59
+2025-08-25 17:05:16,820 - __main__ - INFO - Found answer for question 59
+2025-08-25 17:05:16,820 - __main__ - INFO - Finding answer for question 60
+2025-08-25 17:05:16,822 - __main__ - INFO - Found answer for question 60
+2025-08-25 17:05:16,823 - __main__ - INFO - Extracted 59 QA pairs from test.pdf
+2025-08-25 17:05:16,830 - __main__ - INFO - Saved extracted text to extracted_text/test_text.txt
+2025-08-25 17:05:16,835 - __main__ - INFO - Saved QA pairs to qa_extracted/test_qa.json
+2025-08-25 17:05:16,838 - __main__ - INFO - Saved human-readable QA pairs to qa_extracted/test_qa.txt
+2025-08-25 17:17:28,080 - numexpr.utils - INFO - NumExpr defaulting to 4 threads.
+2025-08-25 17:17:28,348 - __main__ - INFO - Successfully imported extract_text_from_pdf from parser module
+2025-08-25 17:17:28,349 - __main__ - INFO - Processing PDF: test.pdf
+2025-08-25 17:19:01,542 - __main__ - INFO - Loaded 59 questions from question.txt
+2025-08-25 17:19:01,548 - __main__ - INFO - Finding answer for question 1
+2025-08-25 17:19:01,582 - __main__ - INFO - Found answer for question 1
+2025-08-25 17:19:01,582 - __main__ - INFO - Finding answer for question 2
+2025-08-25 17:19:01,657 - __main__ - INFO - Found answer for question 2
+2025-08-25 17:19:01,657 - __main__ - INFO - Finding answer for question 3
+2025-08-25 17:19:01,684 - __main__ - INFO - Found answer for question 3
+2025-08-25 17:19:01,684 - __main__ - INFO - Finding answer for question 4
+2025-08-25 17:19:01,740 - __main__ - INFO - Found answer for question 4
+2025-08-25 17:19:01,740 - __main__ - INFO - Finding answer for question 5
+2025-08-25 17:19:01,740 - __main__ - INFO - Found answer for question 5
+2025-08-25 17:19:01,740 - __main__ - INFO - Finding answer for question 6
+2025-08-25 17:19:01,741 - __main__ - INFO - Found answer for question 6
+2025-08-25 17:19:01,741 - __main__ - INFO - Finding answer for question 7
+2025-08-25 17:19:01,741 - __main__ - INFO - Found answer for question 7
+2025-08-25 17:19:01,741 - __main__ - INFO - Finding answer for question 8
+2025-08-25 17:19:01,864 - __main__ - INFO - Found answer for question 8
+2025-08-25 17:19:01,864 - __main__ - INFO - Finding answer for question 9
+2025-08-25 17:19:01,865 - __main__ - INFO - Found answer for question 9
+2025-08-25 17:19:01,865 - __main__ - INFO - Finding answer for question 10
+2025-08-25 17:19:01,866 - __main__ - INFO - Found answer for question 10
+2025-08-25 17:19:01,866 - __main__ - INFO - Finding answer for question 11
+2025-08-25 17:19:01,909 - __main__ - INFO - Found answer for question 11
+2025-08-25 17:19:01,909 - __main__ - INFO - Finding answer for question 12
+2025-08-25 17:19:01,910 - __main__ - INFO - Found answer for question 12
+2025-08-25 17:19:01,911 - __main__ - INFO - Finding answer for question 13
+2025-08-25 17:19:01,911 - __main__ - INFO - Found answer for question 13
+2025-08-25 17:19:01,912 - __main__ - INFO - Finding answer for question 14
+2025-08-25 17:19:01,912 - __main__ - INFO - Found answer for question 14
+2025-08-25 17:19:01,913 - __main__ - INFO - Finding answer for question 15
+2025-08-25 17:19:01,913 - __main__ - INFO - Found answer for question 15
+2025-08-25 17:19:01,913 - __main__ - INFO - Finding answer for question 16
+2025-08-25 17:19:01,934 - __main__ - INFO - Found answer for question 16
+2025-08-25 17:19:01,934 - __main__ - INFO - Finding answer for question 17
+2025-08-25 17:19:01,935 - __main__ - INFO - Found answer for question 17
+2025-08-25 17:19:01,935 - __main__ - INFO - Finding answer for question 18
+2025-08-25 17:19:01,935 - __main__ - INFO - Found answer for question 18
+2025-08-25 17:19:01,935 - __main__ - INFO - Finding answer for question 19
+2025-08-25 17:19:01,936 - __main__ - INFO - Found answer for question 19
+2025-08-25 17:19:01,936 - __main__ - INFO - Finding answer for question 20
+2025-08-25 17:19:01,955 - __main__ - INFO - Found answer for question 20
+2025-08-25 17:19:01,955 - __main__ - INFO - Finding answer for question 21
+2025-08-25 17:19:01,956 - __main__ - INFO - Found answer for question 21
+2025-08-25 17:19:01,956 - __main__ - INFO - Finding answer for question 22
+2025-08-25 17:19:01,956 - __main__ - INFO - Found answer for question 22
+2025-08-25 17:19:01,956 - __main__ - INFO - Finding answer for question 23
+2025-08-25 17:19:01,997 - __main__ - INFO - Found answer for question 23
+2025-08-25 17:19:01,997 - __main__ - INFO - Finding answer for question 24
+2025-08-25 17:19:02,022 - __main__ - INFO - Found answer for question 24
+2025-08-25 17:19:02,022 - __main__ - INFO - Finding answer for question 25
+2025-08-25 17:19:02,050 - __main__ - INFO - Found answer for question 25
+2025-08-25 17:19:02,050 - __main__ - INFO - Finding answer for question 26
+2025-08-25 17:19:02,051 - __main__ - INFO - Found answer for question 26
+2025-08-25 17:19:02,052 - __main__ - INFO - Finding answer for question 27
+2025-08-25 17:19:02,083 - __main__ - INFO - Found answer for question 27
+2025-08-25 17:19:02,083 - __main__ - INFO - Finding answer for question 29
+2025-08-25 17:19:02,118 - __main__ - INFO - Found answer for question 29
+2025-08-25 17:19:02,118 - __main__ - INFO - Finding answer for question 30
+2025-08-25 17:19:02,153 - __main__ - INFO - Found answer for question 30
+2025-08-25 17:19:02,154 - __main__ - INFO - Finding answer for question 34
+2025-08-25 17:19:02,154 - __main__ - INFO - Found answer for question 34
+2025-08-25 17:19:02,154 - __main__ - INFO - Finding answer for question 2
+2025-08-25 17:19:02,190 - __main__ - INFO - Found answer for question 2
+2025-08-25 17:19:02,190 - __main__ - INFO - Finding answer for question 32
+2025-08-25 17:19:02,227 - __main__ - INFO - Found answer for question 32
+2025-08-25 17:19:02,227 - __main__ - INFO - Finding answer for question 33
+2025-08-25 17:19:02,307 - __main__ - INFO - Found answer for question 33
+2025-08-25 17:19:02,307 - __main__ - INFO - Finding answer for question 34
+2025-08-25 17:19:02,372 - __main__ - INFO - Found answer for question 34
+2025-08-25 17:19:02,372 - __main__ - INFO - Finding answer for question 35
+2025-08-25 17:19:02,373 - __main__ - INFO - Found answer for question 35
+2025-08-25 17:19:02,374 - __main__ - INFO - Finding answer for question 36
+2025-08-25 17:19:02,375 - __main__ - INFO - Found answer for question 36
+2025-08-25 17:19:02,375 - __main__ - INFO - Finding answer for question 37
+2025-08-25 17:19:02,376 - __main__ - INFO - Found answer for question 37
+2025-08-25 17:19:02,376 - __main__ - INFO - Finding answer for question 38
+2025-08-25 17:19:02,377 - __main__ - INFO - Found answer for question 38
+2025-08-25 17:19:02,377 - __main__ - INFO - Finding answer for question 39
+2025-08-25 17:19:02,378 - __main__ - INFO - Found answer for question 39
+2025-08-25 17:19:02,379 - __main__ - INFO - Finding answer for question 40
+2025-08-25 17:19:02,380 - __main__ - INFO - Found answer for question 40
+2025-08-25 17:19:02,380 - __main__ - INFO - Finding answer for question 41
+2025-08-25 17:19:02,381 - __main__ - INFO - Found answer for question 41
+2025-08-25 17:19:02,381 - __main__ - INFO - Finding answer for question 42
+2025-08-25 17:19:02,382 - __main__ - INFO - Found answer for question 42
+2025-08-25 17:19:02,382 - __main__ - INFO - Finding answer for question 43
+2025-08-25 17:19:02,405 - __main__ - INFO - Found answer for question 43
+2025-08-25 17:19:02,405 - __main__ - INFO - Finding answer for question 44
+2025-08-25 17:19:02,406 - __main__ - INFO - Found answer for question 44
+2025-08-25 17:19:02,406 - __main__ - INFO - Finding answer for question 45
+2025-08-25 17:19:02,445 - __main__ - INFO - Found answer for question 45
+2025-08-25 17:19:02,445 - __main__ - INFO - Finding answer for question 46
+2025-08-25 17:19:02,493 - __main__ - INFO - Found answer for question 46
+2025-08-25 17:19:02,493 - __main__ - INFO - Finding answer for question 47
+2025-08-25 17:19:02,562 - __main__ - INFO - Found answer for question 47
+2025-08-25 17:19:02,563 - __main__ - INFO - Finding answer for question 48
+2025-08-25 17:19:02,622 - __main__ - INFO - Found answer for question 48
+2025-08-25 17:19:02,622 - __main__ - INFO - Finding answer for question 49
+2025-08-25 17:19:02,623 - __main__ - INFO - Found answer for question 49
+2025-08-25 17:19:02,623 - __main__ - INFO - Finding answer for question 50
+2025-08-25 17:19:02,624 - __main__ - INFO - Found answer for question 50
+2025-08-25 17:19:02,624 - __main__ - INFO - Finding answer for question 52
+2025-08-25 17:19:02,625 - __main__ - INFO - Found answer for question 52
+2025-08-25 17:19:02,625 - __main__ - INFO - Finding answer for question 53
+2025-08-25 17:19:02,626 - __main__ - INFO - Found answer for question 53
+2025-08-25 17:19:02,626 - __main__ - INFO - Finding answer for question 54
+2025-08-25 17:19:02,628 - __main__ - INFO - Found answer for question 54
+2025-08-25 17:19:02,628 - __main__ - INFO - Finding answer for question 55
+2025-08-25 17:19:02,646 - __main__ - INFO - Found answer for question 55
+2025-08-25 17:19:02,647 - __main__ - INFO - Finding answer for question 56
+2025-08-25 17:19:02,648 - __main__ - INFO - Found answer for question 56
+2025-08-25 17:19:02,648 - __main__ - INFO - Finding answer for question 57
+2025-08-25 17:19:02,683 - __main__ - INFO - Found answer for question 57
+2025-08-25 17:19:02,684 - __main__ - INFO - Finding answer for question 58
+2025-08-25 17:19:02,685 - __main__ - INFO - Found answer for question 58
+2025-08-25 17:19:02,685 - __main__ - INFO - Finding answer for question 59
+2025-08-25 17:19:02,686 - __main__ - INFO - Found answer for question 59
+2025-08-25 17:19:02,686 - __main__ - INFO - Finding answer for question 60
+2025-08-25 17:19:02,687 - __main__ - INFO - Found answer for question 60
+2025-08-25 17:19:02,687 - __main__ - INFO - Extracted 59 QA pairs from test.pdf
+2025-08-25 17:19:02,687 - __main__ - INFO - Statistics: 59 questions found, 0 questions not found
+2025-08-25 17:19:02,688 - __main__ - INFO - Saved extracted text to extracted_text/test_text.txt
+2025-08-25 17:19:02,697 - __main__ - INFO - Saved QA pairs to qa_extracted/test_qa.json
+2025-08-25 17:19:02,698 - __main__ - INFO - Saved human-readable QA pairs to qa_extracted/test_qa.txt
+2025-08-25 17:29:51,890 - numexpr.utils - INFO - NumExpr defaulting to 4 threads.
+2025-08-25 17:29:52,917 - __main__ - INFO - Successfully imported extract_text_from_pdf from parser module
+2025-08-25 17:29:52,919 - __main__ - INFO - Processing PDF: test.pdf
+2025-08-25 17:31:50,638 - __main__ - INFO - Loaded 59 questions from question.txt
+2025-08-25 17:31:50,640 - __main__ - INFO - Finding answer for question 1
+2025-08-25 17:31:50,659 - __main__ - INFO - Found answer for question 1
+2025-08-25 17:31:50,660 - __main__ - INFO - Finding answer for question 2
+2025-08-25 17:31:50,696 - __main__ - INFO - Found answer for question 2
+2025-08-25 17:31:50,696 - __main__ - INFO - Finding answer for question 3
+2025-08-25 17:31:50,711 - __main__ - INFO - Found answer for question 3
+2025-08-25 17:31:50,712 - __main__ - INFO - Finding answer for question 4
+2025-08-25 17:31:50,759 - __main__ - INFO - Found answer for question 4
+2025-08-25 17:31:50,759 - __main__ - INFO - Finding answer for question 5
+2025-08-25 17:31:50,788 - __main__ - INFO - Found answer for question 5
+2025-08-25 17:31:50,789 - __main__ - INFO - Finding answer for question 6
+2025-08-25 17:31:50,809 - __main__ - INFO - Found answer for question 6
+2025-08-25 17:31:50,809 - __main__ - INFO - Finding answer for question 7
+2025-08-25 17:31:50,843 - __main__ - INFO - Found answer for question 7
+2025-08-25 17:31:50,843 - __main__ - INFO - Finding answer for question 8
+2025-08-25 17:31:50,930 - __main__ - INFO - Found answer for question 8
+2025-08-25 17:31:50,930 - __main__ - INFO - Finding answer for question 9
+2025-08-25 17:31:50,947 - __main__ - INFO - Found answer for question 9
+2025-08-25 17:31:50,947 - __main__ - INFO - Finding answer for question 10
+2025-08-25 17:31:50,961 - __main__ - INFO - Found answer for question 10
+2025-08-25 17:31:50,961 - __main__ - INFO - Finding answer for question 11
+2025-08-25 17:31:51,000 - __main__ - INFO - Found answer for question 11
+2025-08-25 17:31:51,000 - __main__ - INFO - Finding answer for question 12
+2025-08-25 17:31:51,001 - __main__ - INFO - Found answer for question 12
+2025-08-25 17:31:51,001 - __main__ - INFO - Finding answer for question 13
+2025-08-25 17:31:51,002 - __main__ - INFO - Found answer for question 13
+2025-08-25 17:31:51,002 - __main__ - INFO - Finding answer for question 14
+2025-08-25 17:31:51,003 - __main__ - INFO - Found answer for question 14
+2025-08-25 17:31:51,003 - __main__ - INFO - Finding answer for question 15
+2025-08-25 17:31:51,004 - __main__ - INFO - Found answer for question 15
+2025-08-25 17:31:51,004 - __main__ - INFO - Finding answer for question 16
+2025-08-25 17:31:51,022 - __main__ - INFO - Found answer for question 16
+2025-08-25 17:31:51,022 - __main__ - INFO - Finding answer for question 17
+2025-08-25 17:31:51,023 - __main__ - INFO - Found answer for question 17
+2025-08-25 17:31:51,023 - __main__ - INFO - Finding answer for question 18
+2025-08-25 17:31:51,062 - __main__ - INFO - Found answer for question 18
+2025-08-25 17:31:51,062 - __main__ - INFO - Finding answer for question 19
+2025-08-25 17:31:51,064 - __main__ - INFO - Found answer for question 19
+2025-08-25 17:31:51,065 - __main__ - INFO - Finding answer for question 20
+2025-08-25 17:31:51,078 - __main__ - INFO - Found answer for question 20
+2025-08-25 17:31:51,078 - __main__ - INFO - Finding answer for question 21
+2025-08-25 17:31:51,080 - __main__ - INFO - Found answer for question 21
+2025-08-25 17:31:51,080 - __main__ - INFO - Finding answer for question 22
+2025-08-25 17:31:51,082 - __main__ - INFO - Found answer for question 22
+2025-08-25 17:31:51,082 - __main__ - INFO - Finding answer for question 23
+2025-08-25 17:31:51,111 - __main__ - INFO - Found answer for question 23
+2025-08-25 17:31:51,111 - __main__ - INFO - Finding answer for question 24
+2025-08-25 17:31:51,133 - __main__ - INFO - Found answer for question 24
+2025-08-25 17:31:51,133 - __main__ - INFO - Finding answer for question 25
+2025-08-25 17:31:51,151 - __main__ - INFO - Found answer for question 25
+2025-08-25 17:31:51,151 - __main__ - INFO - Finding answer for question 26
+2025-08-25 17:31:51,153 - __main__ - INFO - Found answer for question 26
+2025-08-25 17:31:51,153 - __main__ - INFO - Finding answer for question 27
+2025-08-25 17:31:51,171 - __main__ - INFO - Found answer for question 27
+2025-08-25 17:31:51,171 - __main__ - INFO - Finding answer for question 29
+2025-08-25 17:31:51,197 - __main__ - INFO - Found answer for question 29
+2025-08-25 17:31:51,197 - __main__ - INFO - Finding answer for question 30
+2025-08-25 17:31:51,227 - __main__ - INFO - Found answer for question 30
+2025-08-25 17:31:51,228 - __main__ - INFO - Finding answer for question 34
+2025-08-25 17:31:51,234 - __main__ - INFO - Found answer for question 34
+2025-08-25 17:31:51,234 - __main__ - INFO - Finding answer for question 2
+2025-08-25 17:31:51,263 - __main__ - INFO - Found answer for question 2
+2025-08-25 17:31:51,264 - __main__ - INFO - Finding answer for question 32
+2025-08-25 17:31:51,293 - __main__ - INFO - Found answer for question 32
+2025-08-25 17:31:51,293 - __main__ - INFO - Finding answer for question 33
+2025-08-25 17:31:51,361 - __main__ - INFO - Found answer for question 33
+2025-08-25 17:31:51,361 - __main__ - INFO - Finding answer for question 34
+2025-08-25 17:31:51,416 - __main__ - INFO - Found answer for question 34
+2025-08-25 17:31:51,416 - __main__ - INFO - Finding answer for question 35
+2025-08-25 17:31:51,447 - __main__ - INFO - Found answer for question 35
+2025-08-25 17:31:51,447 - __main__ - INFO - Finding answer for question 36
+2025-08-25 17:31:51,449 - __main__ - INFO - Found answer for question 36
+2025-08-25 17:31:51,449 - __main__ - INFO - Finding answer for question 37
+2025-08-25 17:31:51,490 - __main__ - INFO - Found answer for question 37
+2025-08-25 17:31:51,490 - __main__ - INFO - Finding answer for question 38
+2025-08-25 17:31:51,535 - __main__ - INFO - Found answer for question 38
+2025-08-25 17:31:51,535 - __main__ - INFO - Finding answer for question 39
+2025-08-25 17:31:51,536 - __main__ - INFO - Found answer for question 39
+2025-08-25 17:31:51,536 - __main__ - INFO - Finding answer for question 40
+2025-08-25 17:31:51,537 - __main__ - INFO - Found answer for question 40
+2025-08-25 17:31:51,537 - __main__ - INFO - Finding answer for question 41
+2025-08-25 17:31:51,553 - __main__ - INFO - Found answer for question 41
+2025-08-25 17:31:51,553 - __main__ - INFO - Finding answer for question 42
+2025-08-25 17:31:51,554 - __main__ - INFO - Found answer for question 42
+2025-08-25 17:31:51,554 - __main__ - INFO - Finding answer for question 43
+2025-08-25 17:31:51,573 - __main__ - INFO - Found answer for question 43
+2025-08-25 17:31:51,573 - __main__ - INFO - Finding answer for question 44
+2025-08-25 17:31:51,575 - __main__ - INFO - Found answer for question 44
+2025-08-25 17:31:51,575 - __main__ - INFO - Finding answer for question 45
+2025-08-25 17:31:51,604 - __main__ - INFO - Found answer for question 45
+2025-08-25 17:31:51,604 - __main__ - INFO - Finding answer for question 46
+2025-08-25 17:31:51,642 - __main__ - INFO - Found answer for question 46
+2025-08-25 17:31:51,642 - __main__ - INFO - Finding answer for question 47
+2025-08-25 17:31:51,692 - __main__ - INFO - Found answer for question 47
+2025-08-25 17:31:51,692 - __main__ - INFO - Finding answer for question 48
+2025-08-25 17:31:51,742 - __main__ - INFO - Found answer for question 48
+2025-08-25 17:31:51,742 - __main__ - INFO - Finding answer for question 49
+2025-08-25 17:31:51,765 - __main__ - INFO - Found answer for question 49
+2025-08-25 17:31:51,765 - __main__ - INFO - Finding answer for question 50
+2025-08-25 17:31:51,794 - __main__ - INFO - Found answer for question 50
+2025-08-25 17:31:51,794 - __main__ - INFO - Finding answer for question 52
+2025-08-25 17:31:51,795 - __main__ - INFO - Found answer for question 52
+2025-08-25 17:31:51,795 - __main__ - INFO - Finding answer for question 53
+2025-08-25 17:31:51,796 - __main__ - INFO - Found answer for question 53
+2025-08-25 17:31:51,796 - __main__ - INFO - Finding answer for question 54
+2025-08-25 17:31:51,798 - __main__ - INFO - Found answer for question 54
+2025-08-25 17:31:51,798 - __main__ - INFO - Finding answer for question 55
+2025-08-25 17:31:51,811 - __main__ - INFO - Found answer for question 55
+2025-08-25 17:31:51,811 - __main__ - INFO - Finding answer for question 56
+2025-08-25 17:31:51,812 - __main__ - INFO - Found answer for question 56
+2025-08-25 17:31:51,812 - __main__ - INFO - Finding answer for question 57
+2025-08-25 17:31:51,842 - __main__ - INFO - Found answer for question 57
+2025-08-25 17:31:51,842 - __main__ - INFO - Finding answer for question 58
+2025-08-25 17:31:51,843 - __main__ - INFO - Found answer for question 58
+2025-08-25 17:31:51,843 - __main__ - INFO - Finding answer for question 59
+2025-08-25 17:31:51,863 - __main__ - INFO - Found answer for question 59
+2025-08-25 17:31:51,863 - __main__ - INFO - Finding answer for question 60
+2025-08-25 17:31:51,872 - __main__ - INFO - Found answer for question 60
+2025-08-25 17:31:51,872 - __main__ - INFO - Extracted 59 QA pairs from test.pdf
+2025-08-25 17:31:51,872 - __main__ - INFO - Statistics: 59 questions found, 0 questions not found
+2025-08-25 17:31:51,873 - __main__ - INFO - Saved extracted text to extracted_text/test_text.txt
+2025-08-25 17:31:51,881 - __main__ - INFO - Saved QA pairs to qa_extracted/test_qa.json
+2025-08-25 17:31:51,882 - __main__ - INFO - Saved human-readable QA pairs to qa_extracted/test_qa.txt
+2025-08-25 17:34:45,817 - numexpr.utils - INFO - NumExpr defaulting to 4 threads.
+2025-08-25 17:34:46,086 - __main__ - INFO - Successfully imported extract_text_from_pdf from parser module
+2025-08-25 17:34:46,087 - __main__ - INFO - Processing PDF: test.pdf
+2025-08-25 17:36:00,371 - __main__ - INFO - Loaded 60 questions from question.txt
+2025-08-25 17:36:00,377 - __main__ - INFO - Finding answer for question 1
+2025-08-25 17:36:00,383 - __main__ - INFO - Question 1 not found in document
+2025-08-25 17:36:00,383 - __main__ - INFO - Finding answer for question 2
+2025-08-25 17:36:00,387 - __main__ - INFO - Question 2 not found in document
+2025-08-25 17:36:00,387 - __main__ - INFO - Finding answer for question 3
+2025-08-25 17:36:00,391 - __main__ - INFO - Question 3 not found in document
+2025-08-25 17:36:00,391 - __main__ - INFO - Finding answer for question 4
+2025-08-25 17:36:00,395 - __main__ - INFO - Question 4 not found in document
+2025-08-25 17:36:00,395 - __main__ - INFO - Finding answer for question 5
+2025-08-25 17:36:00,399 - __main__ - INFO - Question 5 not found in document
+2025-08-25 17:36:00,399 - __main__ - INFO - Finding answer for question 6
+2025-08-25 17:36:00,405 - __main__ - INFO - Question 6 not found in document
+2025-08-25 17:36:00,405 - __main__ - INFO - Finding answer for question 7
+2025-08-25 17:36:00,408 - __main__ - INFO - Question 7 not found in document
+2025-08-25 17:36:00,409 - __main__ - INFO - Finding answer for question 8
+2025-08-25 17:36:00,412 - __main__ - INFO - Question 8 not found in document
+2025-08-25 17:36:00,412 - __main__ - INFO - Finding answer for question 9
+2025-08-25 17:36:00,416 - __main__ - INFO - Question 9 not found in document
+2025-08-25 17:36:00,416 - __main__ - INFO - Finding answer for question 10
+2025-08-25 17:36:00,420 - __main__ - INFO - Question 10 not found in document
+2025-08-25 17:36:00,421 - __main__ - INFO - Finding answer for question 11
+2025-08-25 17:36:00,424 - __main__ - INFO - Question 11 not found in document
+2025-08-25 17:36:00,424 - __main__ - INFO - Finding answer for question 12
+2025-08-25 17:36:00,435 - __main__ - INFO - Found answer for question 12
+2025-08-25 17:36:00,435 - __main__ - INFO - Finding answer for question 13
+2025-08-25 17:36:00,441 - __main__ - INFO - Found answer for question 13
+2025-08-25 17:36:00,441 - __main__ - INFO - Finding answer for question 14
+2025-08-25 17:36:00,446 - __main__ - INFO - Found answer for question 14
+2025-08-25 17:36:00,446 - __main__ - INFO - Finding answer for question 15
+2025-08-25 17:36:00,453 - __main__ - INFO - Found answer for question 15
+2025-08-25 17:36:00,453 - __main__ - INFO - Finding answer for question 16
+2025-08-25 17:36:00,457 - __main__ - INFO - Question 16 not found in document
+2025-08-25 17:36:00,457 - __main__ - INFO - Finding answer for question 17
+2025-08-25 17:36:00,463 - __main__ - INFO - Found answer for question 17
+2025-08-25 17:36:00,463 - __main__ - INFO - Finding answer for question 18
+2025-08-25 17:36:00,467 - __main__ - INFO - Question 18 not found in document
+2025-08-25 17:36:00,467 - __main__ - INFO - Finding answer for question 19
+2025-08-25 17:36:00,474 - __main__ - INFO - Found answer for question 19
+2025-08-25 17:36:00,474 - __main__ - INFO - Finding answer for question 20
+2025-08-25 17:36:00,477 - __main__ - INFO - Question 20 not found in document
+2025-08-25 17:36:00,477 - __main__ - INFO - Finding answer for question 21
+2025-08-25 17:36:00,482 - __main__ - INFO - Found answer for question 21
+2025-08-25 17:36:00,483 - __main__ - INFO - Finding answer for question 22
+2025-08-25 17:36:00,488 - __main__ - INFO - Found answer for question 22
+2025-08-25 17:36:00,488 - __main__ - INFO - Finding answer for question 23
+2025-08-25 17:36:00,492 - __main__ - INFO - Question 23 not found in document
+2025-08-25 17:36:00,492 - __main__ - INFO - Finding answer for question 24
+2025-08-25 17:36:00,495 - __main__ - INFO - Question 24 not found in document
+2025-08-25 17:36:00,495 - __main__ - INFO - Finding answer for question 25
+2025-08-25 17:36:00,499 - __main__ - INFO - Question 25 not found in document
+2025-08-25 17:36:00,499 - __main__ - INFO - Finding answer for question 26
+2025-08-25 17:36:00,505 - __main__ - INFO - Found answer for question 26
+2025-08-25 17:36:00,505 - __main__ - INFO - Finding answer for question 27
+2025-08-25 17:36:00,509 - __main__ - INFO - Question 27 not found in document
+2025-08-25 17:36:00,509 - __main__ - INFO - Finding answer for question 28
+2025-08-25 17:36:00,512 - __main__ - INFO - Question 28 not found in document
+2025-08-25 17:36:00,512 - __main__ - INFO - Finding answer for question 29
+2025-08-25 17:36:00,516 - __main__ - INFO - Question 29 not found in document
+2025-08-25 17:36:00,516 - __main__ - INFO - Finding answer for question 30
+2025-08-25 17:36:00,522 - __main__ - INFO - Question 30 not found in document
+2025-08-25 17:36:00,522 - __main__ - INFO - Finding answer for question 34
+2025-08-25 17:36:00,525 - __main__ - INFO - Question 34 not found in document
+2025-08-25 17:36:00,525 - __main__ - INFO - Finding answer for question 32
+2025-08-25 17:36:00,529 - __main__ - INFO - Question 32 not found in document
+2025-08-25 17:36:00,529 - __main__ - INFO - Finding answer for question 33
+2025-08-25 17:36:00,533 - __main__ - INFO - Question 33 not found in document
+2025-08-25 17:36:00,533 - __main__ - INFO - Finding answer for question 34
+2025-08-25 17:36:00,538 - __main__ - INFO - Question 34 not found in document
+2025-08-25 17:36:00,538 - __main__ - INFO - Finding answer for question 35
+2025-08-25 17:36:00,541 - __main__ - INFO - Question 35 not found in document
+2025-08-25 17:36:00,541 - __main__ - INFO - Finding answer for question 36
+2025-08-25 17:36:00,545 - __main__ - INFO - Found answer for question 36
+2025-08-25 17:36:00,545 - __main__ - INFO - Finding answer for question 37
+2025-08-25 17:36:00,549 - __main__ - INFO - Question 37 not found in document
+2025-08-25 17:36:00,549 - __main__ - INFO - Finding answer for question 38
+2025-08-25 17:36:00,553 - __main__ - INFO - Question 38 not found in document
+2025-08-25 17:36:00,553 - __main__ - INFO - Finding answer for question 39
+2025-08-25 17:36:00,558 - __main__ - INFO - Found answer for question 39
+2025-08-25 17:36:00,558 - __main__ - INFO - Finding answer for question 40
+2025-08-25 17:36:00,562 - __main__ - INFO - Found answer for question 40
+2025-08-25 17:36:00,562 - __main__ - INFO - Finding answer for question 41
+2025-08-25 17:36:00,565 - __main__ - INFO - Question 41 not found in document
+2025-08-25 17:36:00,565 - __main__ - INFO - Finding answer for question 42
+2025-08-25 17:36:00,571 - __main__ - INFO - Found answer for question 42
+2025-08-25 17:36:00,571 - __main__ - INFO - Finding answer for question 43
+2025-08-25 17:36:00,574 - __main__ - INFO - Question 43 not found in document
+2025-08-25 17:36:00,574 - __main__ - INFO - Finding answer for question 44
+2025-08-25 17:36:00,578 - __main__ - INFO - Found answer for question 44
+2025-08-25 17:36:00,578 - __main__ - INFO - Finding answer for question 45
+2025-08-25 17:36:00,582 - __main__ - INFO - Found answer for question 45
+2025-08-25 17:36:00,582 - __main__ - INFO - Finding answer for question 46
+2025-08-25 17:36:00,587 - __main__ - INFO - Question 46 not found in document
+2025-08-25 17:36:00,587 - __main__ - INFO - Finding answer for question 47
+2025-08-25 17:36:00,590 - __main__ - INFO - Question 47 not found in document
+2025-08-25 17:36:00,590 - __main__ - INFO - Finding answer for question 48
+2025-08-25 17:36:00,594 - __main__ - INFO - Question 48 not found in document
+2025-08-25 17:36:00,594 - __main__ - INFO - Finding answer for question 49
+2025-08-25 17:36:00,597 - __main__ - INFO - Question 49 not found in document
+2025-08-25 17:36:00,597 - __main__ - INFO - Finding answer for question 50
+2025-08-25 17:36:00,602 - __main__ - INFO - Question 50 not found in document
+2025-08-25 17:36:00,602 - __main__ - INFO - Finding answer for question 54
+2025-08-25 17:36:00,605 - __main__ - INFO - Question 54 not found in document
+2025-08-25 17:36:00,605 - __main__ - INFO - Finding answer for question 52
+2025-08-25 17:36:00,609 - __main__ - INFO - Found answer for question 52
+2025-08-25 17:36:00,609 - __main__ - INFO - Finding answer for question 53
+2025-08-25 17:36:00,613 - __main__ - INFO - Found answer for question 53
+2025-08-25 17:36:00,613 - __main__ - INFO - Finding answer for question 54
+2025-08-25 17:36:00,619 - __main__ - INFO - Found answer for question 54
+2025-08-25 17:36:00,619 - __main__ - INFO - Finding answer for question 55
+2025-08-25 17:36:00,622 - __main__ - INFO - Question 55 not found in document
+2025-08-25 17:36:00,622 - __main__ - INFO - Finding answer for question 56
+2025-08-25 17:36:00,626 - __main__ - INFO - Found answer for question 56
+2025-08-25 17:36:00,626 - __main__ - INFO - Finding answer for question 57
+2025-08-25 17:36:00,629 - __main__ - INFO - Question 57 not found in document
+2025-08-25 17:36:00,629 - __main__ - INFO - Finding answer for question 58
+2025-08-25 17:36:00,634 - __main__ - INFO - Found answer for question 58
+2025-08-25 17:36:00,634 - __main__ - INFO - Finding answer for question 59
+2025-08-25 17:36:00,638 - __main__ - INFO - Question 59 not found in document
+2025-08-25 17:36:00,638 - __main__ - INFO - Finding answer for question 60
+2025-08-25 17:36:00,642 - __main__ - INFO - Question 60 not found in document
+2025-08-25 17:36:00,642 - __main__ - INFO - Extracted 20 QA pairs from test.pdf
+2025-08-25 17:36:00,642 - __main__ - INFO - Statistics: 20 questions found, 40 questions not found
+2025-08-25 17:36:00,643 - __main__ - INFO - Saved extracted text to extracted_text/test_text.txt
+2025-08-25 17:36:00,657 - __main__ - INFO - Saved QA pairs to qa_extracted/test_qa.json
+2025-08-25 17:36:00,661 - __main__ - INFO - Saved human-readable QA pairs to qa_extracted/test_qa.txt
